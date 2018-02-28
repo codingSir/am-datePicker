@@ -1,0 +1,10 @@
+{
+  "name": "am-datePicker",
+  "version": "*",
+  "license": "MIT",
+  "main": ["ADM-dateTimePicker.css",
+          "./ADM-dateTimePicker.js"],
+  "ignore": [],
+  "dependencies": {
+  }
+}
